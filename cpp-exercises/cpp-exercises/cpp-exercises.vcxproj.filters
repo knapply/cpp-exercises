@@ -32,5 +32,11 @@
     <ClCompile Include="sum_product.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="compute_height.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circle_circumference_area.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
